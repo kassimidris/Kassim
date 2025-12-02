@@ -1,4 +1,7 @@
 # Kassim Idris
 
-A collection of essays and poetry by Kassim Idris.  
-Accessible online: [https://kassimidris.github.io](https://kassimidris.github.io)
+This repository hosts essays and poetry by Kassim Idris.  
+
+The collection is available online: [https://kassimidris.github.io](https://kassimidris.github.io)
+
+*All content © Kassim Idris*
