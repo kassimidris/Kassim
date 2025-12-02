@@ -1,15 +1,22 @@
 # Kassim Idris
 
 A curated collection of essays and poetry exploring identity, memory, and landscapes—both urban and natural.  
+This repository serves as the source for the live collection, accessible online:
 
-Essays and poems are organized in separate folders, accessible through the live site:  
-[https://kassimidris.github.io](https://kassimidris.github.io)
+**[View the Collection →](https://kassimidris.github.io)**
 
 ---
 
-**Folder structure:**
+## Structure
 
-- `essays/` – reflective essays  
-- `poetry/` – original poems  
+**Essays**  
+- Stored in `essays/`  
+- Reflective pieces on identity, urban design, and personal experiences
+
+**Poetry**  
+- Stored in `poetry/`  
+- Poems capturing moods, observations, and fleeting moments
+
+---
 
 *All content © Kassim Idris*
